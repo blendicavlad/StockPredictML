@@ -1,2 +1,2 @@
 # StockPredictML
-Stock trading prediction software powered by machine learning
+Stock trading prediction demo application using machine learning models
